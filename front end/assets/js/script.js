@@ -12,7 +12,7 @@ onSubmit = (event) =>{
 	.then(response=> response.json())
 	.then(response=>{
 		console.log(response);
-		window.location.href = "https://glitchey.herokuapp.com/thanks1.html";
+
 	})
 	
 
